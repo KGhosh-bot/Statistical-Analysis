@@ -1,2 +1,2 @@
 # Statistical-Analysis
-Dimensionality reduction (PCA, LDA), Optimization (GD, SGD). Parameter Optimization (MLE, MAP)
+Dimensionality reduction (PCA, LDA), Parameter Optimization (MLE, MAP)
